@@ -1,0 +1,7 @@
+# Ignore Chrome extension build and user files
+node_modules/
+dist/
+*.log
+# Ignore user-specific config (if you want to keep your own labels private)
+user-config.js
+src/config.js
